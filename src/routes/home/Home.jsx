@@ -70,6 +70,7 @@ export const Home = () => {
         <img src="/logo.png" alt="logo" />
         <div className='links'>
           <Link to={`/`}>Terms of Service</Link>
+          <span>|</span>
           <Link to={`/`}>Privacy Policy</Link>
         </div>
       </div>
