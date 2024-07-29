@@ -23,7 +23,7 @@ const ChatList = () => {
       </div>
       <hr />
       <div className="upgrade">
-        <img src="./logo.png" />
+        <img src="/logo.png" />
         <div className="text">
           <span>Upgrade to Voltz AI Pro</span>
           <span>Get Unlimited Access to all Features</span>
